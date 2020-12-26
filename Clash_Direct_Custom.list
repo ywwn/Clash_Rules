@@ -1,3 +1,4 @@
 DOMAIN,imappro.zoho.com
 DOMAIN,smtppro.zoho.com
 DOMAIN-SUFFIX,bing.com
+IP-CIDR,136.143.182.67/24,no-resolve
