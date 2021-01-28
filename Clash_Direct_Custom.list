@@ -1,6 +1,6 @@
 DOMAIN,imappro.zoho.com
 DOMAIN,smtppro.zoho.com
 DOMAIN,imap.gmail.com
-DOMAIN,smtp.gmail.com
+IP-CIDR,136.143.182.67/24,no-resolve
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,bing.com
