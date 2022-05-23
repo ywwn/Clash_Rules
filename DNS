@@ -4,13 +4,13 @@ dns:
   listen: :23453
   default-nameserver:
     - 223.5.5.5
-    - 1.1.1.1
+    - 8.8.8.8
   enhanced-mode: redir-host 
   nameserver:
     - https://dns.alidns.com/dns-query
     - tls://120.53.53.53
   fallback:
-    - https://1.1.1.1/dns-query
+#   - https://1.1.1.1/dns-query
     - https://doh.dns.sb/dns-query
     - tcp://208.67.222.222:443
     - tls://dns.google
